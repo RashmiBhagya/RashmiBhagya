@@ -23,9 +23,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RashmiBhagya_icons=true&locale=en&layout=compact" alt="RashmiBhagya" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RashmiBhagya_icons=true&locale=en&layout=compact" alt="RashmiBhagya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RashmiBhagya&show_icons=true&locale=en" alt="RashmiBhagya" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RashmiBhagya&show_icons=true&locale=en" alt="RashmiBhagya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RashmiBhagya&" alt="RashmiBhagya" /></p>
  
