@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rashmi Bhagya</h1>
 <h3 align="center">Undergraduate Software engineer from Sri lanka</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/706457c438d2031942745299f52de650adf45a3b87de1ded443696b405dd881d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
 
 - ⚡ Fun fact **I am funny😅**
 - Ask me : Java,Mern,Android,python😊
@@ -23,7 +23,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RashmiBhagya_icons=true&locale=en&layout=compact" alt="RashmiBhagya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RashmiBhagya_icons=true&locale=en&layout=compact" alt="RashmiBhagya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RashmiBhagya&show_icons=true&locale=en" alt="RashmiBhagya" /></p>
 
